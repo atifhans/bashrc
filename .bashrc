@@ -11,8 +11,8 @@
 
 # User Info
 
-export USERNAME="Kirtika Ruchandani"
-export NICKNAME="rkirti"
+export USERNAME="Atif Iqbal"
+export NICKNAME="Jim"
 
 # Distribute bashrc into smaller, more specific files
 
